@@ -1,3 +1,6 @@
 [submodule "themes/quint"]
 	path = themes/quint
 	url = https://github.com/victoriadrake/hugo-theme-quint.git
+[submodule "themes/magnolia"]
+	path = themes/magnolia
+	url = https://github.com/ololiuhqui/magnolia-free-hugo-theme.git
